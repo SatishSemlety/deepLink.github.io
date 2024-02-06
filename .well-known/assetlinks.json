@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.mosl.mobile",
+               "sha256_cert_fingerprints":["FF:E3:59:A1:A0:96:DB:2C:D6:DF:45:27:3E:58:95:F6:37:B2:4E:61:C0:A1:D4:90:FE:91:5E:35:63:04:5A:67"] }
+}]
